@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Week-4-Course-Project
+# Getting and Cleaning Data Week 4 Course Project
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
